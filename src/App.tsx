@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { 
   Package, PlusCircle, Truck, Clock, Wallet, BarChart2, 
-  MapPin, Phone, MessageCircle, CheckCircle, Search, 
+  MapPin, Phone, MessageCircle, CheckCircle, 
   ArrowLeft, Send, Lock, User, RefreshCw, AlertTriangle, Camera
 } from 'lucide-react';
 
